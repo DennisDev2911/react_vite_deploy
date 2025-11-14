@@ -21,7 +21,7 @@ React: Escolhido para a componentização eficiente e gerenciamento de estado da
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 <h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
-<img src="C:\Users\Willian\Desktop\Fotos dos Projetos\iphone 17 pro.JPG">
+<img src="https://github.com/DennisDev2911/iphone-17/blob/main/iphone%2017%20pro.JPG?raw=true">
 
 # React + Vite
 
