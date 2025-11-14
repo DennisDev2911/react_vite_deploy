@@ -1,3 +1,25 @@
+<h1 align="center">
+  iphone 17 Pro
+</h1>
+
+## 💻 Projeto
+
+O projeto foi construído utilizando as seguintes tecnologias principais:
+
+HTML5: Para a estrutura semântica da página.
+
+CSS3: Para a estilização e animações visuais modernas, focando em um design limpo e responsivo que evoca a estética da Apple.
+
+JavaScript (ES6+): Para interações dinâmicas e manipulação do DOM.
+
+React: Escolhido para a componentização eficiente e gerenciamento de estado da interface, facilitando a criação de elementos complexos como carrosséis de recursos e visualizadores de cores.
+
+## 🚀 Tecnologias
+
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
